@@ -1,5 +1,5 @@
 # face-check
-口罩检测，三个不同的项目实现
+口罩检测，三个不同的项目实现，粉丝交流群：428335755
 视频演示链接：https://www.bilibili.com/video/BV15P4y1j71g?spm_id_from=333.999.0.0
 图片演示：
 ![image](https://user-images.githubusercontent.com/62045791/139574551-9b8155f5-9c6e-4e5a-b603-c03cb4016bb1.png)
